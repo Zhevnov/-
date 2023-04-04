@@ -61,7 +61,7 @@ PrintArray(array);
 Console.Write("→ ");
 PrintArray(newArray);
 
-// Функция: Вывод команд для работы с программой
+// Функция вывода команд для работы с программой
 void Commands()
 {
     Console.WriteLine();
